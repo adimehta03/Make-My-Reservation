@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=paymentmethod
+comment1.params=
+comment1.target=void\ pay()
+comment2.params=
+comment2.target=void\ Cred()
+comment3.params=
+comment3.target=void\ Cred1()
+comment4.params=
+comment4.target=void\ Debit()
+comment5.params=
+comment5.target=void\ Debit1()
+comment6.params=
+comment6.target=void\ InT()
+comment7.params=
+comment7.target=void\ InT1()
+comment8.params=
+comment8.target=void\ Time()
+numComments=9
